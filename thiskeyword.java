@@ -2,7 +2,7 @@
 // class A{
 //     int a;
 //     A(int a){
-//         a=a;
+//         a=a;  //this.a=a  ye bhi likh sakte hai 
 //     }
 //      void disp(){
 //         System.out.println(this.a);

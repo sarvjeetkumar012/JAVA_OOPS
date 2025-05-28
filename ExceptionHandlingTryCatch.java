@@ -6,7 +6,7 @@ public class ExceptionHandlingTryCatch {
          c=a/b;
         System.out.println(c);
         }
-        catch(Exception e){
+        catch(ArithmeticException e){
             System.out.println(e);
         }
         System.out.println(" main method ended after exception  ");

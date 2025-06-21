@@ -1,0 +1,2 @@
+Hello from Writer class!
+Welcome to Java file handling.
